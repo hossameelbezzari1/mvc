@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# التأكد من أن الطلب ليس لملف أو مجلد موجود
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# إعادة توجيه جميع الطلبات إلى index.php
+RewriteRule ^ index.php [QSA,L]

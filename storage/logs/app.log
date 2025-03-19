@@ -1,0 +1,38 @@
+[2025-03-18 18:33:12] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 18:34:40] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 18:34:55] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 18:35:37] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 18:53:40] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 19:21:28] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 19:21:31] [ERROR] Unexpected error {"exception":"","path":"\/submit-form"}
+[2025-03-18 19:21:34] [ERROR] Resource not found {"exception":"No routes found for \"\/submit-forsjs\".","path":"\/submit-forsjs"}
+[2025-03-18 19:23:24] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 19:23:28] [ERROR] Unexpected error {"exception":"","path":"\/submit-form"}
+[2025-03-18 19:23:31] [ERROR] Resource not found {"exception":"No routes found for \"\/submit-forsjs\".","path":"\/submit-forsjs"}
+[2025-03-18 19:37:35] [ERROR] Unexpected error {"exception":"","path":"\/submit-form"}
+[2025-03-18 19:37:45] [ERROR] Unexpected error {"exception":"","path":"\/submit-form"}
+[2025-03-18 19:37:47] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 20:35:18] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 20:35:19] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 20:35:22] [ERROR] Unexpected error {"exception":"","path":"\/submit-form"}
+[2025-03-18 20:35:24] [ERROR] Resource not found {"exception":"No routes found for \"\/submit-forsjs\".","path":"\/submit-forsjs"}
+[2025-03-18 20:35:26] [ERROR] Resource not found {"exception":"No routes found for \"\/submit-forsjs\".","path":"\/submit-forsjs"}
+[2025-03-18 20:35:29] [ERROR] Resource not found {"exception":"No routes found for \"\/projects\/gostLite\/\".","path":"\/projects\/gostLite\/"}
+[2025-03-18 20:41:06] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 20:47:34] [ERROR] Unexpected error {"exception":"","path":"\/submit-form"}
+[2025-03-18 20:47:36] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:00:24] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:49:19] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:50:56] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:57:03] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:57:11] [ERROR] Resource not found {"exception":"No routes found for \"\/hellob\".","path":"\/hellob"}
+[2025-03-18 21:57:16] [ERROR] Resource not found {"exception":"No routes found for \"\/test\".","path":"\/test"}
+[2025-03-18 21:57:36] [ERROR] Resource not found {"exception":"No routes found for \"\/hellob\".","path":"\/hellob"}
+[2025-03-18 21:57:39] [INFO] Route matched {"route_name":"hello","path":"\/hello","middleware":[],"parameters":{"controller":["App\\Routing\\Route","handleClosure"],"closure":{},"_route":"hello"}}
+[2025-03-18 21:58:37] [INFO] Route matched {"route_name":"hello","path":"\/hello","middleware":[],"parameters":{"controller":["App\\Routing\\Route","handleClosure"],"closure":{},"_route":"hello"}}
+[2025-03-18 21:58:39] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:59:03] [ERROR] Resource not found {"exception":"No routes found for \"\/js\".","path":"\/js"}
+[2025-03-18 21:59:06] [INFO] Route matched {"route_name":"home","path":"\/","middleware":[],"parameters":{"controller":["App\\Controllers\\HomeController","index"],"closure":null,"_route":"home"}}
+[2025-03-18 21:59:15] [ERROR] Resource not found {"exception":"No routes found for \"\/thello\".","path":"\/thello"}
+[2025-03-18 21:59:21] [ERROR] Resource not found {"exception":"No routes found for \"\/hellob\".","path":"\/hellob"}
+[2025-03-18 21:59:23] [INFO] Route matched {"route_name":"hello","path":"\/hello","middleware":[],"parameters":{"controller":["App\\Routing\\Route","handleClosure"],"closure":{},"_route":"hello"}}

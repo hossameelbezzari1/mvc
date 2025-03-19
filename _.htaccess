@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# إعادة توجيه جميع الطلبات إلى مجلد public تلقائيًا
+RewriteCond %{REQUEST_URI} !^/public/
+RewriteRule ^(.*)$ public/$1 [L]
